@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  height: 557px;
+  width: 375px;
+  background-color: white;
+}
+
+iframe {
+  border: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  z-index: 0;
+}
+
+.overtop {
+  z-index: 10;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 375px;
+  height: 557px;
+  transition: opacity 0.5s linear;
+  opacity: 1;
+}

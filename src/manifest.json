@@ -1,0 +1,25 @@
+{
+  "name": "UberChrome",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Call an uber from anywhere",
+  "icons": {
+    "16": "assets/icon.png",
+    "32": "assets/icon.png",
+    "128": "assets/icon.png"
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "tabs",
+    "browsingData",
+    "https://*/*",
+    "http://*/*"
+  ],
+  "browser_action": {},
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "default_locale": "en"
+}
