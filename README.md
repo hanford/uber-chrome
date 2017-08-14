@@ -4,7 +4,7 @@ Easily call an uber on your desktop from chrome.
 
 All information stays local, extension is just a few lines of JavaScript. 🎉
 
-[Chrome Store](https://chrome.google.com/webstore/detail/dffakiimcpeogagieklcdchklmghdnhd) | [Landing Page](https://jackhanford.com/uber-chrome)
+[Chrome Store](https://chrome.google.com/webstore/detail/uberchrome/foakblnhnfmanccjhkkcicepglbflaff) | [Landing Page](https://jackhanford.com/uber-chrome)
 
 ![preview](https://github.com/hanford/uber-chrome/blob/master/preview.png)
 
